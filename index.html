@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400' rel='stylesheet' type='text/css'>
+
+  <title>Experience &amp; Special Projects</title>
+<style>
+#header {
+  font: 42px 'Lato',sans-serif;
+  color: #525252;
+  padding-left: 110px;
+  padding-top: 40px;
+}
+
+body {
+   font: 14px 'Lato',sans-serif;
+
+
+}
+
+.axis-label {
+  font: 300 14px 'Lato',sans-serif;
+  letter-spacing: 1.5px;
+  color: #525252;
+}
+.axis path, .axis line {
+  fill: none;
+  stroke: #525252;
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+  letter-spacing: 2px;
+}
+
+/*g.info text {
+  font: 100 16px 'Lato', sans-serif;
+  */
+}
+</style>
+</head>
+
+<body>
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+
+<script type="text/javascript" src="d3resume.js"></script>
+<div id="header">Sara Quigley</div>
+<!-- <div id="header"></div> -->
+<div id="experience"></div>
+
+<script>
+
+    var resume = new d3Resume({
+        width: 1100,
+        height: 600,
+        wrapperSelector: "#experience",
+        dataUrl: 'resume.json'
+        // getItemFillCollor: function (item) {
+        //   return '#' + (function co(lor){   return (lor +=
+        //     [0,1,2,3,4,5,6,7,8,9,'a','b','c','d','e','f'][Math.floor(Math.random()*16)])
+        //     && (lor.length == 6) ?  lor : co(lor); })('');
+        // }
+      });
+
+</script>
+</body>
+</html>
