@@ -1,0 +1,159 @@
+{
+    "study": [
+        {
+            "type": "Visualization Project",
+            "institution": "University of California, Berkeley",
+            "title": "California Memorial Football Stadium Financing Model",
+            "from": "2014-08-01",
+            "to": "2014-11-01",
+            "description": "An interactive illustration of the Cal Memorial Football Stadium retrofit project's financing model \n Presented to the UC Regents at the November 2014 Regents meeting",
+            "default_item": false
+        },
+        {
+            "type": "Visualization Project",
+            "institution": "University of California, Berkeley",
+            "title": "Strategic Dilemmas",
+            "from": "2013-06-15",
+            "to": "2013-9-15",
+            "description": "An interactive strategy development exercise that was presented to the UC Berkeley Chancellor's Cabinet at the Fall 2013 Retreat",
+            "default_item": false
+        },
+         {
+            "type": "Visualization Project",
+            "institution": "University of California, Berkeley",
+            "title": "University of California Revenue and Expense Trends, FY 2008-2012",
+            "from": "2013-09-15",
+            "to": "2013-11-01",
+            "description": "An interactive version of a report called University of California Revenue and Expense Trends Fiscal Years 2008 through 2012 \n (which was prepared by the UC Office of the President (UCOP))",
+            "default_item": false
+        },
+        {
+            "type": "Visualization Project",
+            "institution": "University of California, Berkeley",
+            "title": "UC Berkeley Campus Budget Flows 2012-2014",
+            "from": "2014-03-01",
+            "to": "2014-06-01",
+            "description": "A graphic designed to:\n - Faciltate budgetary discussions among campus leaders\n - Promote a shared understanding of the campus' financial challenges",
+            "default_item": false
+        },
+        {
+            "type": "Visualization Project",
+            "institution": "University of California, Berkeley",
+            "title": "UC Berkeley Campus Scorecard Prototype",
+            "from": "2013-11-01",
+            "to": "2014-02-01",
+            "description": "A tool for communicating with external campus stakeholders, highlighting UC Berkeley's commitment to transparency and accountability \n by focussing on performance with respect to resource alignment, activities in pursuit of the campus' strategic goals, and the resulting outcomes",
+            "default_item": false
+        },
+        {
+            "type": "Visualization Project",
+            "institution": "University of California, Berkeley",
+            "title": "Migratory Patterns of California Bears",
+            "from": "2014-06-01",
+            "to": "2014-07-08",
+            "description": "An interactive graphic highlighting pathways to degrees taken by undegraduates who entered UC Berkeley in the Fall of 2007",
+            "default_item": false
+        },
+        {
+            "type": "Training & Service",
+            "institution": "Green Gulch Farm & Zen Center",
+            "title": "Work Practice Apprentice",
+            "from": "2001-03-01",
+            "to": "2001-06-01",
+            "description": "Participated in a 3-month Work Practice Apprentice program consisting of formal Zen meditation training, community service and farm work",
+            "default_item": false
+        },
+        {
+            "type": "Training & Service",
+            "institution": "United States Peace Corps",
+            "title": "Peace Corps Volunteer",
+            "from": "1995-01-01",
+            "to": "1997-06-01",
+            "description": "Directed a Ford-Foundation baseline study documenting small scale-apiculture in the Dominican Rebpulic \n Trained secondary-school teachers in conservation/sustainability principles as part of a UNESCO Pilot Project",
+            "default_item": false
+        }
+    ],
+    "experience": [
+        {
+            "type": "Work",
+            "institution": "University of California, Berkeley",
+            "title": "Senior Analyst :: Strategic Management & Metrics Project (Operational Excellence) | Office of Planning & Analysis",
+            "from": "2013-07-01",
+            "to": null,
+            "description": "Support for pilot units on their paths to an effective strategic management process \n Creation of compelling interactive data visualizations that facilitate cross-campus collaboration and decision-making \n Development of accessible, interactive graphics that enhance senior leadership's communications with external stakeholders",
+            "default_item": true
+        },
+        {
+            "type": "Work",
+            "institution": "University of California, Berkeley",
+            "title": "Project Lead :: Student Consoidated Financial View Project (Operational Excellence)",
+            "from": "2013-01-01",
+            "to": "2013-06-30",
+            "description": "User-Centered Design, Data Analysis and Prototyping to provide Berkeley students with a better online view of their finances",
+            "default_item": false
+        },
+        {
+            "type": "Work",
+            "institution": "University of California, Berkeley",
+            "title": "Senior Technical Business Analyst :: Student Systems Roadmap Project (Operational Excellence)",
+            "from": "2012-06-01",
+            "to": "2012-12-31",
+            "description": "Development of assets in support of the business case to replace the campus' homegrown Student Information System: \n -  A logical architecture model of 93 student applications and their interfaces\n - A total cost of ownership anlaysis of student information applications ",
+            "default_item": false
+        },
+        {
+            "type": "Work",
+            "institution": "University of California, Berkeley",
+            "title": "Portfolio Management Consultant :: Division of Student Affairs",
+            "from": "2011-10-01",
+            "to": "2012-05-31",
+            "description": "Special projects work on behalf of the Berkeley Office of the Registrar:\n - conducting a review of campus degree audit system and providing fit-gap analysis for campus advising toolkit solution",
+            "default_item": false
+        },
+        {
+            "type": "Work",
+            "institution": "University of California, Berkeley",
+            "title": "Data and API Analyst :: Kuali Student Software Project",
+            "from": "2008-04-15",
+            "to": "2011-09-30",
+            "description": "Collaborated with sofware architects to define service programming interfaces and the data that is exchanged across those interfaces \n Lead analyst on the design and implementation of the campus course approval system (using a release of Kuali Student software)",
+            "default_item": false
+        },
+        {
+            "type": "Work",
+            "institution": "Low Income Investment Fund (LIIF)",
+            "title": "IT Manager | Senior Business Analyst | Database Programmer",
+            "from": "2004-07-01",
+            "to": "2008-04-01",
+            "description": "Re-engineered the business application architecture to better serve internal customers \n Procurement and integration of enterprise loan management systems \n Managed a team of network administrators and software developers",
+            "default_item": false
+        },
+        {
+            "type": "Work",
+            "institution": "Credo Mobile",
+            "title": "Design Analyst",
+            "from": "2001-06-01",
+            "to": "2004-06-01",
+            "description": "Lead business analyst on wireless billing system, debut of number portability \n Lead designer of self-service customer web-bill \n Information modelling and design of new products and fee structures",
+            "default_item": false
+        },
+        {
+            "type": "Work",
+            "institution": "Cooper",
+            "title": "Interaction Designer",
+            "from": "1999-12-01",
+            "to": "2001-02-01",
+            "description": "Designed a visual Java integrated development environment (IDE) for analysts as part of a suite of rapid application development tools \n Worked on forward-thinking dashboard design concepts for automotive industry manufacturers",
+            "default_item": false
+        },
+        {
+            "type": "Work",
+            "institution": "Condor Technology Solutions",
+            "title": "Application Developer",
+            "from": "1997-08-01",
+            "to": "1999-11-30",
+            "description": "Lead developer of a conference/event planning system for the Hartford Financial Services Corporation \n Developed web design fundamentals course materials, maintained corporate intranet",
+            "default_item": false
+        }
+    ]
+}
