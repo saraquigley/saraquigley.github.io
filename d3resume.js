@@ -1,4 +1,4 @@
-/*! using D3-resume v1.3.0 https://github.com/glena/d3-resume | Germán lena https://github.com/glena/ */
+/*! D3-resume v1.3.0 https://github.com/glena/d3-resume | Germán lena https://github.com/glena/ */
 var d3Resume = function(_config){
 
 	var lastTimeout = null;
@@ -83,8 +83,8 @@ var d3Resume = function(_config){
 				.style("text-anchor", "end")
 				.attr("transform", "translate("+[25,60]+") rotate(-90)");
 
-		loadItems(svg, graphContainer, data.experience, "experience", -1, config.height / 8);
-		loadItems(svg, graphContainer, data.study, "study", 1, config.height / 8);
+		loadItems(svg, graphContainer, data.experience, "experience", -1, config.height / 10);
+		loadItems(svg, graphContainer, data.study, "study", 1, config.height / 10);
 	}
 
 	var getPath = function (diameter, position)
