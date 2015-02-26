@@ -6,7 +6,7 @@
             "title": "California Memorial Football Stadium Financing Model",
             "from": "2014-08-01",
             "to": "2014-11-01",
-            "description": "An interactive illustration of the Cal Memorial Football Stadium retrofit project's financing model \n Presented to the UC Regents at the November 2014 Regents meeting",
+            "description": "An interactive illustration of the Cal Memorial Football Stadium retrofit project's financing model \n Presented to the UC Regents at the November 2014 Regents meeting \n Built with d3.js",
             "default_item": false
         },
         {
@@ -15,7 +15,7 @@
             "title": "Strategic Dilemmas",
             "from": "2013-06-15",
             "to": "2013-9-15",
-            "description": "An interactive strategy development exercise that was presented to the UC Berkeley Chancellor's Cabinet at the Fall 2013 Retreat",
+            "description": "An interactive strategy development exercise that was presented to the UC Berkeley Chancellor's Cabinet at the Fall 2013 Retreat\n Built with d3.js",
             "default_item": false
         },
          {
@@ -24,7 +24,7 @@
             "title": "University of California Revenue and Expense Trends, FY 2008-2012",
             "from": "2013-09-15",
             "to": "2013-11-01",
-            "description": "An interactive version of a report called University of California Revenue and Expense Trends Fiscal Years 2008 through 2012 \n (which was prepared by the UC Office of the President (UCOP))",
+            "description": "An interactive version of a report called University of California Revenue and Expense Trends Fiscal Years 2008 through 2012 \n (which was prepared by the UC Office of the President (UCOP))\n Built with d3.js, crossfilter.js, dc.js and bootstrap",
             "default_item": false
         },
         {
@@ -33,7 +33,7 @@
             "title": "UC Berkeley Campus Budget Flows 2012-2014",
             "from": "2014-03-01",
             "to": "2014-06-01",
-            "description": "A graphic designed to:\n - Faciltate budgetary discussions among campus leaders\n - Promote a shared understanding of the campus' financial challenges",
+            "description": "A graphic designed to:\n - Faciltate budgetary discussions among campus leaders\n - Promote a shared understanding of the campus' financial challenges \nBuilt with d3.js",
             "default_item": false
         },
         {
@@ -42,7 +42,7 @@
             "title": "UC Berkeley Campus Scorecard Prototype",
             "from": "2013-11-01",
             "to": "2014-02-01",
-            "description": "A tool for communicating with external campus stakeholders, highlighting UC Berkeley's commitment to transparency and accountability \n by focussing on performance with respect to resource alignment, activities in pursuit of the campus' strategic goals, and the resulting outcomes",
+            "description": "A tool for communicating with external campus stakeholders, highlighting UC Berkeley's commitment to transparency and accountability \n by focussing on performance with respect to resource alignment, activities in pursuit of the campus' strategic goals, and the resulting outcomes \n Built with d3.js",
             "default_item": false
         },
         {
@@ -51,7 +51,7 @@
             "title": "Migratory Patterns of California Bears",
             "from": "2014-06-01",
             "to": "2014-07-08",
-            "description": "An interactive graphic highlighting pathways to degrees taken by undegraduates who entered UC Berkeley in the Fall of 2007",
+            "description": "An interactive graphic highlighting pathways to degrees taken by undegraduates who entered UC Berkeley in the Fall of 2007 \n Built with d3.js",
             "default_item": false
         },
         {
