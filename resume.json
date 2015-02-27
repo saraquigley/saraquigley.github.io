@@ -7,6 +7,7 @@
             "from": "2014-08-01",
             "to": "2014-11-01",
             "description": "An interactive illustration of the Cal Memorial Football Stadium retrofit project's financing model \n Presented to the UC Regents at the November 2014 Regents meeting \n Built with d3.js",
+            "url": "",
             "default_item": false
         },
         {
@@ -16,6 +17,7 @@
             "from": "2013-06-15",
             "to": "2013-9-15",
             "description": "An interactive strategy development exercise that was presented to the UC Berkeley Chancellor's Cabinet at the Fall 2013 Retreat\n Built with d3.js",
+            "url": "",
             "default_item": false
         },
          {
@@ -25,6 +27,7 @@
             "from": "2013-09-15",
             "to": "2013-11-01",
             "description": "An interactive version of a report called University of California Revenue and Expense Trends Fiscal Years 2008 through 2012 \n (which was prepared by the UC Office of the President (UCOP))\n Built with d3.js, crossfilter.js, dc.js and bootstrap",
+            "url": "http://saraquigley.github.io/uc-trends",
             "default_item": false
         },
         {
@@ -34,6 +37,7 @@
             "from": "2014-03-01",
             "to": "2014-06-01",
             "description": "A graphic designed to:\n - Faciltate budgetary discussions among campus leaders\n - Promote a shared understanding of the campus' financial challenges \nBuilt with d3.js",
+            "url": "",
             "default_item": false
         },
         {
@@ -43,6 +47,7 @@
             "from": "2013-11-01",
             "to": "2014-02-01",
             "description": "A tool for communicating with external campus stakeholders, highlighting UC Berkeley's commitment to transparency and accountability \n by focussing on performance with respect to resource alignment, activities in pursuit of the campus' strategic goals, and the resulting outcomes \n Built with d3.js",
+            "url": "http://bl.ocks.org/saraquigley/raw/99708bf75d19e4db9966/",
             "default_item": false
         },
         {
@@ -52,6 +57,7 @@
             "from": "2014-06-01",
             "to": "2014-07-08",
             "description": "An interactive graphic highlighting pathways to degrees taken by undegraduates who entered UC Berkeley in the Fall of 2007 \n Built with d3.js",
+            "url": "http://saraquigley.github.io/major-migration",
             "default_item": false
         },
         {
@@ -61,6 +67,7 @@
             "from": "2001-03-01",
             "to": "2001-06-01",
             "description": "Participated in a 3-month Work Practice Apprentice program consisting of formal Zen meditation training, community service and farm work",
+            "url": "http://www.sfzc.org/ggf/",
             "default_item": false
         },
         {
@@ -70,6 +77,7 @@
             "from": "1995-01-01",
             "to": "1997-06-01",
             "description": "Directed a Ford-Foundation baseline study documenting small scale-apiculture in the Dominican Rebpulic \n Trained secondary-school teachers in conservation/sustainability principles as part of a UNESCO Pilot Project",
+            "url": "http://www.peacecorps.gov/volunteer/learn/wherepc/caribbean/dominicanrepublic/",
             "default_item": false
         }
     ],
@@ -81,15 +89,17 @@
             "from": "2013-07-01",
             "to": null,
             "description": "Support for pilot units on their paths to an effective strategic management process \n Creation of compelling interactive data visualizations that facilitate cross-campus collaboration and decision-making \n Development of accessible, interactive graphics that enhance senior leadership's communications with external stakeholders",
+            "url": "http://opa.berkeley.edu/",
             "default_item": true
         },
         {
             "type": "Work",
             "institution": "University of California, Berkeley",
-            "title": "Project Lead :: Student Consoidated Financial View Project (Operational Excellence)",
+            "title": "Project Lead :: Student Consolidated Financial View Project (Operational Excellence)",
             "from": "2013-01-01",
             "to": "2013-06-30",
             "description": "User-Centered Design, Data Analysis and Prototyping to provide Berkeley students with a better online view of their finances",
+            "url": "http://ets.berkeley.edu/sites/default/files/calcentral_at_a_glance_my_finances_s30_v19_1.pdf",
             "default_item": false
         },
         {
@@ -98,7 +108,8 @@
             "title": "Senior Technical Business Analyst :: Student Systems Roadmap Project (Operational Excellence)",
             "from": "2012-06-01",
             "to": "2012-12-31",
-            "description": "Development of assets in support of the business case to replace the campus' homegrown Student Information System: \n -  A logical architecture model of 93 student applications and their interfaces\n - A total cost of ownership anlaysis of student information applications ",
+            "description": "Development of assets supporting the business case to replace the campus' homegrown Student Information System: \n -  A logical architecture model of 93 student applications and their interfaces\n - A total cost of ownership analysis of student information applications ",
+            "url": "http://sis-project.berkeley.edu/about",
             "default_item": false
         },
         {
@@ -107,7 +118,8 @@
             "title": "Portfolio Management Consultant :: Division of Student Affairs",
             "from": "2011-10-01",
             "to": "2012-05-31",
-            "description": "Special projects work on behalf of the Berkeley Office of the Registrar:\n - conducting a review of campus degree audit system and providing fit-gap analysis for campus advising toolkit solution",
+            "description": "Special projects work on behalf of the Berkeley Office of the Registrar:\n - conducted a review of campus degree audit system and performed vendor fit-gap analysis for campus advising toolkit solution",
+            "url": "",
             "default_item": false
         },
         {
@@ -117,6 +129,7 @@
             "from": "2008-04-15",
             "to": "2011-09-30",
             "description": "Collaborated with sofware architects to define service programming interfaces and the data that is exchanged across those interfaces \n Lead analyst on the design and implementation of the campus course approval system (using a release of Kuali Student software)",
+            "url": "http://www.kuali.org/ks",
             "default_item": false
         },
         {
@@ -126,6 +139,7 @@
             "from": "2004-07-01",
             "to": "2008-04-01",
             "description": "Re-engineered the business application architecture to better serve internal customers \n Procurement and integration of enterprise loan management systems \n Managed a team of network administrators and software developers",
+            "url": "http://www.liifund.org/",
             "default_item": false
         },
         {
@@ -135,6 +149,7 @@
             "from": "2001-06-01",
             "to": "2004-06-01",
             "description": "Lead business analyst on wireless billing system, debut of number portability \n Lead designer of self-service customer web-bill \n Information modelling and design of new products and fee structures",
+            "url": "http://www.credomobile.com/",
             "default_item": false
         },
         {
@@ -144,6 +159,7 @@
             "from": "1999-12-01",
             "to": "2001-02-01",
             "description": "Designed a visual Java integrated development environment (IDE) for analysts as part of a suite of rapid application development tools \n Worked on forward-thinking dashboard design concepts for automotive industry manufacturers",
+            "url": "http://www.cooper.com/",
             "default_item": false
         },
         {
@@ -152,7 +168,8 @@
             "title": "Application Developer",
             "from": "1997-08-01",
             "to": "1999-11-30",
-            "description": "Lead developer of a conference/event planning system for the Hartford Financial Services Corporation \n Developed web design fundamentals course materials, maintained corporate intranet",
+            "description": "Java developer of software for tracking sales agent activity for FedEx Corp\n Lead developer of a conference/event planning system for the Hartford Financial Services Corporation \n Developed web design fundamentals course materials, maintained corporate intranet",
+            "url": "http://www.nasdaq.com/markets/ipos/company/condor-technology-solutions-inc-3623-5108",
             "default_item": false
         }
     ]
