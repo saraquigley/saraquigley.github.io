@@ -10,6 +10,9 @@ var d3Resume = function(_config){
 	var x = null;
 	var y = null;
 	var xAxis = null;
+	var margin = 20;
+	var width = document.documentElement.clientWidth-40;
+	var height = d3.max([document.documentElement.clientHeight-300,600]);
 
 	var colorWork = d3.scale.ordinal().range(["#5254a3","#637939","#BD9E39","#AD494A","#A55194","#01665E","#0868AC","#8C510A"]);
 	var colorProject = d3.scale.ordinal().range(["#0868AC","#8C510A","#01665E","#A55194","#637939","#5254a3","#BD9E39","#AD494A"]);
@@ -19,12 +22,13 @@ var d3Resume = function(_config){
 		svg = d3
 		.select(config.wrapperSelector)
 		.append('svg')
-			.attr("width", config.width)
-			.attr("height", config.height);
+			.attr('id', 'svg')
+			.attr("width", width)
+			.attr("height", height);
 
-		x = d3.time.scale().range([20, config.width]);
-		y = d3.scale.linear().range([config.height, 0]);
-		y.domain([0, config.height]);
+		x = d3.time.scale().range([20, width]);
+		y = d3.scale.linear().range([height, 0]);
+		y.domain([0, height]);
 
 		xAxis = d3.svg.axis()
 			.scale(x)
@@ -58,7 +62,7 @@ var d3Resume = function(_config){
 		var graphContainer = svg
 			.append("g")
 			.attr("class", "graph-container")
-			.attr("transform", "translate(" + [0,config.height - 220] + ")");
+			.attr("transform", "translate(" + [0,height - 220] + ")");
 
 		var xAxilsEl = graphContainer.append("g")
 				.attr("class", "x axis")
@@ -81,8 +85,8 @@ var d3Resume = function(_config){
 				.style("text-anchor", "end")
 				.attr("transform", "translate("+[25,60]+") rotate(-90)");
 
-		loadItems(svg, graphContainer, data.experience, "experience", -1, config.height / 10);
-		loadItems(svg, graphContainer, data.study, "study", 1, config.height / 10);
+		loadItems(svg, graphContainer, data.experience, "experience", -1, height / 10);
+		loadItems(svg, graphContainer, data.study, "study", 1, height / 10);
 	};
 
 	var getPath = function (diameter, position)
@@ -147,7 +151,7 @@ var d3Resume = function(_config){
 				.classed('info',true)
 				.classed('default',function(d){return d.default_item;})
 				.classed(className,true)
-				.attr("transform", "translate("+[config.width*0.1,infoTopPosition]+")")
+				.attr("transform", "translate("+[width*0.1,infoTopPosition]+")")
 				.attr("fill", function(d,i) {
 					return d.type === "Work" ? colorWork(i) : colorProject(i);
 				})
@@ -166,13 +170,6 @@ var d3Resume = function(_config){
 																	text += formatToShow(d.to);
 																return text;
 															});
-
-		// var gThumbnail = svg
-		// 	.selectAll(".thumbnail")
-		// 	.data(data)
-		// 	.enter()
-		// 		.append("img")
-		// 		.attr("class","thumbnail")
 
 		
 		var descriptionWrapper = gInfo.selectAll('text.description')
@@ -243,6 +240,31 @@ var d3Resume = function(_config){
 		svg.selectAll("g.info").transition().attr("fill-opacity", 0);
 		svg.selectAll("g.info."+className+"."+className+d.id).transition().attr("fill-opacity", 1);
 	};
+
+	// var resize = function()
+ //  {
+	//	width = document.documentElement.clientWidth-40;
+	//	height = d3.max([document.documentElement.clientHeight-300,600]);
+
+	//	svg = d3.select("#svg")
+	//	.attr("width", width)
+	//	.attr("height", height);
+
+	//	x = d3.time.scale().range([20, width]);
+	//	y = d3.scale.linear().range([height, 0]);
+	//	y.domain([0, height]);
+
+	//	xAxis = d3.svg.axis()
+	//	.scale(x)
+	//	.orient("bottom")
+	//	.ticks(30)
+	//	.tickSize(6)
+	//	.tickFormat(d3.time.format("%Y"));
+
+	//	d3.json(config.dataUrl, loadData);
+ //  };
+
+	// d3.select(window).on('resize', resize);
 
 	init();
 };
