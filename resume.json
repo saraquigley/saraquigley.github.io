@@ -16,7 +16,7 @@
             "title": "Strategic Dilemmas",
             "from": "2013-06-15",
             "to": "2013-9-15",
-            "description": "An interactive strategy development exercise that was presented to the UC Berkeley Chancellor's Cabinet at the Fall 2013 Retreat\n Built with d3.js",
+            "description": "An interactive strategy development exercise that was presented to the UC Berkeley Chancellor's Cabinet in Fall 2013\n Built with d3.js",
             "url": "",
             "default_item": false
         },
@@ -26,7 +26,7 @@
             "title": "University of California Revenue and Expense Trends, FY 2008-2012",
             "from": "2013-09-15",
             "to": "2013-11-01",
-            "description": "An interactive version of a report called University of California Revenue and Expense Trends Fiscal Years 2008 through 2012 \n (which was prepared by the UC Office of the President (UCOP))\n Built with d3.js, crossfilter.js, dc.js and bootstrap",
+            "description": "An interactive version of a report called University of California Revenue and Expense Trends Fiscal Years 2008-2012 \n (which was prepared by the UC Office of the President (UCOP))\n Built with d3.js, crossfilter.js, dc.js and bootstrap",
             "url": "http://saraquigley.github.io/uc-trends",
             "default_item": false
         },
@@ -46,7 +46,7 @@
             "title": "UC Berkeley Campus Scorecard Prototype",
             "from": "2013-11-01",
             "to": "2014-02-01",
-            "description": "A tool for communicating with external campus stakeholders, highlighting UC Berkeley's commitment to transparency and accountability \n by focussing on performance with respect to resource alignment, activities in pursuit of the campus' strategic goals, and the resulting outcomes \n Built with d3.js",
+            "description": "A tool for communicating with external campus stakeholders, highlighting Berkeley's commitment to transparency/accountability \n Monitoring performance with respect to resource alignment, activities towards the campus' strategic goals, resulting outcomes \n Built with d3.js",
             "url": "http://bl.ocks.org/saraquigley/raw/99708bf75d19e4db9966/",
             "default_item": false
         },
@@ -66,7 +66,7 @@
             "title": "Work Practice Apprentice",
             "from": "2001-03-01",
             "to": "2001-06-01",
-            "description": "Participated in a 3-month Work Practice Apprentice program consisting of formal Zen meditation training, community service and farm work",
+            "description": "Participated in a 3-month Work Practice Apprentice program\n Formal Zen meditation training, community service and farm work",
             "url": "http://www.sfzc.org/ggf/",
             "default_item": false
         },
@@ -76,7 +76,7 @@
             "title": "Peace Corps Volunteer",
             "from": "1995-01-01",
             "to": "1997-06-01",
-            "description": "Directed a Ford-Foundation baseline study documenting small scale-apiculture in the Dominican Rebpulic \n Trained secondary-school teachers in conservation/sustainability principles as part of a UNESCO Pilot Project",
+            "description": "Directed a Ford-Foundation baseline study documenting small scale-apiculture in the Dominican Republic \n Trained secondary-school teachers in conservation/sustainability principles for UNESCO Pilot Project",
             "url": "http://www.peacecorps.gov/volunteer/learn/wherepc/caribbean/dominicanrepublic/",
             "default_item": false
         }
@@ -128,7 +128,7 @@
             "title": "Data and API Analyst :: Kuali Student Software Project",
             "from": "2008-04-15",
             "to": "2011-09-30",
-            "description": "Collaborated with sofware architects to define service programming interfaces and the data that is exchanged across those interfaces \n Lead analyst on the design and implementation of the campus course approval system (using a release of Kuali Student software)",
+            "description": "Collaborated with sofware architects to define service entities and the data that is exchanged across thier interfaces \n Lead analyst on the design and implementation of the campus course approval system (using a release of Kuali Student software)",
             "url": "http://www.kuali.org/ks",
             "default_item": false
         },
@@ -158,7 +158,7 @@
             "title": "Interaction Designer",
             "from": "1999-12-01",
             "to": "2001-02-01",
-            "description": "Designed a visual Java integrated development environment (IDE) for analysts as part of a suite of rapid application development tools \n Worked on forward-thinking dashboard design concepts for automotive industry manufacturers",
+            "description": "Designed a visual Java integrated development environment (IDE) for analysts as part of a suite of rapid app development tools \n Worked on forward-thinking dashboard design concepts for automotive industry manufacturers",
             "url": "http://www.cooper.com/",
             "default_item": false
         },
