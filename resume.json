@@ -3,6 +3,56 @@
         {
             "type": "Visualization Project",
             "institution": "University of California, Berkeley",
+            "title": "Our Berkeley Data Digest",
+            "from": "2017-08-01",
+            "to": "2018-08-01",
+            "description": "Public-facing data narratives and dashboards that tell UC Berkeley's story \n Built with Tableau, d3.js",
+            "url": "https://opa.berkeley.edu/campus-data/our-berkeley",
+            "default_item": false   
+        },
+        {
+            "type": "Visualization Project",
+            "institution": "University of California, Berkeley",
+            "title": "Analyzing Course-Taking Patterns with t-SNE",
+            "from": "2017-02-01",
+            "to": "2017-07-01",
+            "description": "An visual tool for exploring UC Berkeley students' course-taking patterns as learned from the t-SNE machine learning algorithm. \n Built with d3.js",
+            "url": "https://docs.google.com/presentation/d/14OM46pYcP381jk89FOHClOmHFP0B4maPMLBcvOXHUhE/edit?usp=sharing",
+            "default_item": false
+        },
+        {
+            "type": "Visualization Project",
+            "institution": "University of California, Berkeley",
+            "title": "Campus Revenue Distribution Model",
+            "from": "2016-03-01",
+            "to": "2016-09-01",
+            "description": "A model to distribute annual student tuition & fee revenue to academic units in support of campus finance reform\n Built with mySQL, d3.js, crossfilter.js",
+            "url": "",
+            "default_item": false   
+        },
+        {
+            "type": "Visualization Project",
+            "institution": "University of California, Berkeley",
+            "title": "Co-Occurrence of Student Double & Triple Majors",
+            "from": "2015-11-01",
+            "to": "2016-3-01",
+            "description": "An interactive graphic for exploring the combinations of major programs that appear in undergraduate double and triple majors. \n Built with d3.js",
+            "url": "https://opa.berkeley.edu/undergrad-multiple-majors",
+            "default_item": false
+        },
+        {
+            "type": "Visualization Project",
+            "institution": "University of California, Berkeley",
+            "title": "Migratory Patterns of California Bears",
+            "from": "2015-07-01",
+            "to": "2015-10-01",
+            "description": "An interactive graphic highlighting pathways to degrees taken by undegraduates who entered UC Berkeley in the past 10 years. \n Built with d3.js",
+            "url": "https://opa.berkeley.edu/undergrad-major-migration",
+            "default_item": false
+        },
+        {
+            "type": "Visualization Project",
+            "institution": "University of California, Berkeley",
             "title": "California Memorial Football Stadium Financing Model",
             "from": "2014-08-01",
             "to": "2014-11-01",
@@ -35,7 +85,7 @@
             "institution": "University of California, Berkeley",
             "title": "UC Berkeley Campus Budget Flows 2012-2014",
             "from": "2014-03-01",
-            "to": "2014-06-01",
+            "to": "2014-08-01",
             "description": "A graphic designed to:\n - Faciltate budgetary discussions among campus leaders\n - Promote a shared understanding of the campus' financial challenges \nBuilt with d3.js",
             "url": "",
             "default_item": false
@@ -48,16 +98,6 @@
             "to": "2014-02-01",
             "description": "A tool for communicating with external campus stakeholders, highlighting Berkeley's commitment to transparency/accountability \n Monitoring performance with respect to resource alignment, activities towards the campus' strategic goals, resulting outcomes \n Built with d3.js",
             "url": "http://bl.ocks.org/saraquigley/raw/99708bf75d19e4db9966/",
-            "default_item": false
-        },
-        {
-            "type": "Visualization Project",
-            "institution": "University of California, Berkeley",
-            "title": "Migratory Patterns of California Bears",
-            "from": "2014-06-01",
-            "to": "2014-07-08",
-            "description": "An interactive graphic highlighting pathways to degrees taken by undegraduates who entered UC Berkeley in the Fall of 2007 \n Built with d3.js",
-            "url": "http://saraquigley.github.io/major-migration",
             "default_item": false
         },
         {
@@ -85,12 +125,22 @@
         {
             "type": "Work",
             "institution": "University of California, Berkeley",
-            "title": "Senior Analyst :: Strategic Management & Metrics Project (Operational Excellence) | Office of Planning & Analysis",
-            "from": "2013-07-01",
-            "to": null,
+            "title": "Senior Analyst, Data Visualization :: Office of Planning & Analysis",
+            "from": "2015-07-02",
+            "to": "2018-08-01",
             "description": "Support for pilot units on their paths to an effective strategic management process \n Creation of compelling interactive data visualizations that facilitate cross-campus collaboration and decision-making \n Development of accessible, interactive graphics that enhance senior leadership's communications with external stakeholders",
             "url": "http://opa.berkeley.edu/",
             "default_item": true
+        },
+        {
+            "type": "Work",
+            "institution": "University of California, Berkeley",
+            "title": "Senior Analyst :: Strategic Management & Metrics Project (Operational Excellence)",
+            "from": "2013-07-01",
+            "to": "2015-07-01",
+            "description": "Support for pilot units on their paths to an effective strategic management process \n Creation of compelling interactive data visualizations that facilitate cross-campus collaboration and decision-making \n Development of accessible, interactive graphics that enhance senior leadership's communications with external stakeholders",
+            "url": "https://vca.berkeley.edu/resources/operational-excellence/oe-projects/strategic-management-and-metrics",
+            "default_item": false
         },
         {
             "type": "Work",
@@ -99,7 +149,7 @@
             "from": "2013-01-01",
             "to": "2013-06-30",
             "description": "User-Centered Design, Data Analysis and Prototyping to provide Berkeley students with a better online view of their finances",
-            "url": "http://ets.berkeley.edu/sites/default/files/calcentral_at_a_glance_my_finances_s30_v19_1.pdf",
+            "url": "http://news.berkeley.edu/2014/01/21/calcentral-offers-all-your-campus-info-anywhere-anytime/",
             "default_item": false
         },
         {
@@ -109,7 +159,7 @@
             "from": "2012-06-01",
             "to": "2012-12-31",
             "description": "Development of assets supporting the business case to replace the campus' homegrown Student Information System: \n -  A logical architecture model of 93 student applications and their interfaces\n - A total cost of ownership analysis of student information applications ",
-            "url": "http://sis-project.berkeley.edu/about",
+            "url": "https://sis.berkeley.edu/",
             "default_item": false
         },
         {
@@ -129,7 +179,7 @@
             "from": "2008-04-15",
             "to": "2011-09-30",
             "description": "Collaborated with sofware architects to define service entities and the data that is exchanged across thier interfaces \n Lead analyst on the design and implementation of the campus course approval system (using a release of Kuali Student software)",
-            "url": "http://www.kuali.org/ks",
+            "url": "https://www.kuali.co/products/student/",
             "default_item": false
         },
         {

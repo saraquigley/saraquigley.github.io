@@ -164,7 +164,7 @@ var d3Resume = function(_config){
 		addItemDetail(gInfo, "24px", "translate("+[0,50]+")", "300", "#525252",function(d){return d.institution;});
 		addItemDetail(gInfo, "16px", "translate("+[0,75]+")", "300", "#000000", function(d){
 																var text = formatToShow(d.from) + ' - ';
-																if (d.to === null)
+																if (formatToShow(d.to) === "08/01/2018")
 																	text += ' Present ';
 																else
 																	text += formatToShow(d.to);
@@ -240,6 +240,8 @@ var d3Resume = function(_config){
 		svg.selectAll("g.info").transition().attr("fill-opacity", 0);
 		svg.selectAll("g.info."+className+"."+className+d.id).transition().attr("fill-opacity", 1);
 	};
+
+
 
 	// var resize = function()
  //  {
