@@ -140,7 +140,7 @@
             "title": "Senior Analyst, Data Visualization :: Office of Planning & Analysis",
             "from": "2015-07-02",
             "to": "2018-08-01",
-            "description": "Support for pilot units on their paths to an effective strategic management process \n Creation of compelling interactive data visualizations that facilitate cross-campus collaboration and decision-making \n Development of accessible, interactive graphics that enhance senior leadership's communications with external stakeholders",
+            "description": "Collect and analyze data, create visualizations tailored for campus leadership to support decision-making \n Build data visualization tools used by fellow campus analysts and researchers \n Build / maintain the campus undergraduate enrollment model, set targets, generate forecasts, track student progress \n Lead supervised research of undergraduates participating in the Berkeley Data Science Discovery Program",
             "url": "http://opa.berkeley.edu/",
             "default_item": true,
             "color": "#045a8d"
@@ -162,7 +162,7 @@
             "title": "Project Lead :: Student Consolidated Financial View Project (Operational Excellence)",
             "from": "2013-01-01",
             "to": "2013-06-30",
-            "description": "User-Centered Design, Data Analysis and Prototyping to provide Berkeley students with a better online view of their finances",
+            "description": "User-Centered design, data analysis, data visualization and user-interface prototyping to provide Berkeley students with a better online view of their finances",
             "url": "http://news.berkeley.edu/2014/01/21/calcentral-offers-all-your-campus-info-anywhere-anytime/",
             "default_item": false,
             "color": "#045a8d"
@@ -171,9 +171,9 @@
             "type": "Work",
             "institution": "University of California, Berkeley",
             "title": "Senior Technical Business Analyst :: Student Systems Roadmap Project (Operational Excellence)",
-            "from": "2012-06-01",
+            "from": "2011-10-01",
             "to": "2012-12-31",
-            "description": "Development of assets supporting the business case to replace the campus' homegrown Student Information System: \n -  A logical architecture model of 93 student applications and their interfaces\n - A total cost of ownership analysis of student information applications ",
+            "description": "Development of assets supporting the business case to replace the campus' homegrown Student Information System: \n -  A logical architecture model of 93 student applications and their interfaces\n - A total cost of ownership analysis of student information applications \n Special projects work on behalf of the Berkeley Office of the Registrar and Academic Senate:\n - conducted a review of campus degree audit system and performed vendor fit-gap analysis for campus advising toolkit solution",
             "url": "https://sis.berkeley.edu/",
             "default_item": false,
             "color": "#045a8d"
@@ -181,21 +181,10 @@
         {
             "type": "Work",
             "institution": "University of California, Berkeley",
-            "title": "Portfolio Management Consultant :: Division of Student Affairs",
-            "from": "2011-10-01",
-            "to": "2012-05-31",
-            "description": "Special projects work on behalf of the Berkeley Office of the Registrar:\n - conducted a review of campus degree audit system and performed vendor fit-gap analysis for campus advising toolkit solution",
-            "url": "",
-            "default_item": false,
-            "color": "#045a8d"
-        },
-        {
-            "type": "Work",
-            "institution": "University of California, Berkeley",
-            "title": "Data and API Analyst :: Kuali Student Software Project",
+            "title": "UX/Data Analyst & API Designer :: Kuali Student Software Project",
             "from": "2008-04-15",
             "to": "2011-09-30",
-            "description": "Collaborated with sofware architects to define service entities and the data that is exchanged across thier interfaces \n Lead analyst on the design and implementation of the campus course approval system (using a release of Kuali Student software)",
+            "description": "Collaborated with software architects to define service entities and the data that is exchanged across their interfaces \n Lead analyst on the design and implementation of the campus course approval system (using a release of Kuali Student software)",
             "url": "https://www.kuali.co/products/student/",
             "default_item": false,
             "color": "#045a8d"
