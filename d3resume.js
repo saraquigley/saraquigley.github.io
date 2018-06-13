@@ -80,13 +80,15 @@ var d3Resume = function(_config){
 				.classed('axis-label',true)
 				.text('EXPERIENCE')
 				.style("text-anchor", "center")
-				.attr("transform", "translate("+[25,- 55]+") rotate(-90)");
+				.attr("transform", "translate("+[25,- 55]+")");
+				// .attr("transform", "translate("+[25,- 55]+") rotate(-90)");
 
 		graphContainer.append('text')
 				.classed('axis-label',true)
 				.text('SPECIAL PROJECTS')
-				.style("text-anchor", "end")
-				.attr("transform", "translate("+[25,60]+") rotate(-90)");
+				.style("text-anchor", "center")
+				.attr("transform", "translate("+[25,100]+")");
+				// .attr("transform", "translate("+[25,60]+") rotate(-90)");
 
 		loadItems(svg, graphContainer, data.experience, "experience", -1, height / 10);
 		loadItems(svg, graphContainer, data.study, "study", 1, height / 10);
@@ -277,6 +279,8 @@ var d3Resume = function(_config){
 		d3.selectAll("path").remove();
 		d3.selectAll(".axis").remove();
 		d3.selectAll("graph-container").remove();
+		d3.selectAll(".axis-label").remove();
+		
 
 		xAxis = d3.svg.axis()
 			.scale(x)

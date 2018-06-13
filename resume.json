@@ -17,7 +17,7 @@
             "title": "Analyzing Course-Taking Patterns with t-SNE",
             "from": "2017-02-01",
             "to": "2017-07-01",
-            "description": "An visual tool for exploring UC Berkeley students' course-taking patterns as learned from the t-SNE machine learning algorithm. \n Built with d3.js",
+            "description": "A visual tool for exploring UC Berkeley students' course-taking patterns as learned from the t-SNE machine learning algorithm. \n Built with d3.js",
             "url": "https://docs.google.com/presentation/d/14OM46pYcP381jk89FOHClOmHFP0B4maPMLBcvOXHUhE/edit?usp=sharing",
             "default_item": false,
             "color": "#7a0177"
@@ -162,7 +162,7 @@
             "title": "Project Lead :: Student Consolidated Financial View Project (Operational Excellence)",
             "from": "2013-01-01",
             "to": "2013-06-30",
-            "description": "User-Centered design, data analysis, data visualization and user-interface prototyping to provide Berkeley students with a better online view of their finances",
+            "description": "User-centered design, data analysis, data visualization and user-interface prototyping to provide Berkeley students with a better online view of their finances",
             "url": "http://news.berkeley.edu/2014/01/21/calcentral-offers-all-your-campus-info-anywhere-anytime/",
             "default_item": false,
             "color": "#045a8d"
