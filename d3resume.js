@@ -1,4 +1,5 @@
 /*! D3-resume v1.3.0 https://github.com/glena/d3-resume | Germán lena https://github.com/glena/ */
+
 var d3Resume = function(_config){
 
 	var lastTimeout = null;
@@ -175,6 +176,14 @@ var d3Resume = function(_config){
 																return text;
 															});
 
+		// addItemDetail(gInfo, "16px", "translate(0,"+[0,100]+")", "300", "red", function(d){
+		// 														if ((d.url) === "")
+		// 															text = "";
+		// 														else
+		// 															text = "Click on the nub to open a link about this.";
+		// 														return text;
+		// 													});
+
 		
 		var descriptionWrapper = gInfo.selectAll('text.description')
 				.data(function(d, i) {
@@ -191,6 +200,8 @@ var d3Resume = function(_config){
 
 		addItemDetail(descriptionWrapper, "16px", function(d) {return "translate(0,"+d.position+")";},
 			"300","#000000",function(d){return d.text;});
+
+		
 
 
 		graphContainer
