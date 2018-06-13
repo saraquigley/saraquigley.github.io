@@ -8,7 +8,8 @@
             "to": "2018-08-01",
             "description": "Public-facing data narratives and dashboards that tell UC Berkeley's story \n Built with Tableau, d3.js",
             "url": "https://opa.berkeley.edu/campus-data/our-berkeley",
-            "default_item": false   
+            "default_item": false,
+            "color": "#49006a"
         },
         {
             "type": "Visualization Project",
@@ -18,7 +19,8 @@
             "to": "2017-07-01",
             "description": "An visual tool for exploring UC Berkeley students' course-taking patterns as learned from the t-SNE machine learning algorithm. \n Built with d3.js",
             "url": "https://docs.google.com/presentation/d/14OM46pYcP381jk89FOHClOmHFP0B4maPMLBcvOXHUhE/edit?usp=sharing",
-            "default_item": false
+            "default_item": false,
+            "color": "#7a0177"
         },
         {
             "type": "Visualization Project",
@@ -28,7 +30,8 @@
             "to": "2016-09-01",
             "description": "A model to distribute annual student tuition & fee revenue to academic units in support of campus finance reform\n Built with mySQL, d3.js, crossfilter.js",
             "url": "",
-            "default_item": false   
+            "default_item": false   ,
+            "color": "#ae017e"
         },
         {
             "type": "Visualization Project",
@@ -38,7 +41,8 @@
             "to": "2016-3-01",
             "description": "An interactive graphic for exploring the combinations of major programs that appear in undergraduate double and triple majors. \n Built with d3.js",
             "url": "https://opa.berkeley.edu/undergrad-multiple-majors",
-            "default_item": false
+            "default_item": false,
+            "color": "#dd3497"
         },
         {
             "type": "Visualization Project",
@@ -48,7 +52,8 @@
             "to": "2015-10-01",
             "description": "An interactive graphic highlighting pathways to degrees taken by undegraduates who entered UC Berkeley in the past 10 years. \n Built with d3.js",
             "url": "https://opa.berkeley.edu/undergrad-major-migration",
-            "default_item": false
+            "default_item": false,
+            "color": "#f768a1"
         },
         {
             "type": "Visualization Project",
@@ -58,7 +63,8 @@
             "to": "2014-11-01",
             "description": "An interactive illustration of the Cal Memorial Football Stadium retrofit project's financing model \n Presented to the UC Regents at the November 2014 Regents meeting \n Built with d3.js",
             "url": "",
-            "default_item": false
+            "default_item": false,
+            "color": "#fa9fb5"
         },
         {
             "type": "Visualization Project",
@@ -68,7 +74,8 @@
             "to": "2013-9-15",
             "description": "An interactive strategy development exercise that was presented to the UC Berkeley Chancellor's Cabinet in Fall 2013\n Built with d3.js",
             "url": "",
-            "default_item": false
+            "default_item": false,
+            "color": "#ce1256"
         },
          {
             "type": "Visualization Project",
@@ -78,7 +85,8 @@
             "to": "2013-11-01",
             "description": "An interactive version of a report called University of California Revenue and Expense Trends Fiscal Years 2008-2012 \n (which was prepared by the UC Office of the President (UCOP))\n Built with d3.js, crossfilter.js, dc.js and bootstrap",
             "url": "http://saraquigley.github.io/uc-trends",
-            "default_item": false
+            "default_item": false,
+            "color": "#e7298a"
         },
         {
             "type": "Visualization Project",
@@ -88,7 +96,8 @@
             "to": "2014-08-01",
             "description": "A graphic designed to:\n - Faciltate budgetary discussions among campus leaders\n - Promote a shared understanding of the campus' financial challenges \nBuilt with d3.js",
             "url": "",
-            "default_item": false
+            "default_item": false,
+            "color": "#df65b0"
         },
         {
             "type": "Visualization Project",
@@ -98,7 +107,8 @@
             "to": "2014-02-01",
             "description": "A tool for communicating with external campus stakeholders, highlighting Berkeley's commitment to transparency/accountability \n Monitoring performance with respect to resource alignment, activities towards the campus' strategic goals, resulting outcomes \n Built with d3.js",
             "url": "http://bl.ocks.org/saraquigley/raw/99708bf75d19e4db9966/",
-            "default_item": false
+            "default_item": false,
+            "color": "#c994c7"
         },
         {
             "type": "Training & Service",
@@ -108,7 +118,8 @@
             "to": "2001-06-01",
             "description": "Participated in a 3-month Work Practice Apprentice program\n Formal Zen meditation training, community service and farm work",
             "url": "http://www.sfzc.org/ggf/",
-            "default_item": false
+            "default_item": false,
+            "color": "#696969"
         },
         {
             "type": "Training & Service",
@@ -118,7 +129,8 @@
             "to": "1997-06-01",
             "description": "Directed a Ford-Foundation baseline study documenting small scale-apiculture in the Dominican Republic \n Trained secondary-school teachers in conservation/sustainability principles for UNESCO Pilot Project",
             "url": "http://www.peacecorps.gov/volunteer/learn/wherepc/caribbean/dominicanrepublic/",
-            "default_item": false
+            "default_item": false,
+            "color": "#525252"
         }
     ],
     "experience": [
@@ -130,7 +142,8 @@
             "to": "2018-08-01",
             "description": "Support for pilot units on their paths to an effective strategic management process \n Creation of compelling interactive data visualizations that facilitate cross-campus collaboration and decision-making \n Development of accessible, interactive graphics that enhance senior leadership's communications with external stakeholders",
             "url": "http://opa.berkeley.edu/",
-            "default_item": true
+            "default_item": true,
+            "color": "#045a8d"
         },
         {
             "type": "Work",
@@ -140,7 +153,8 @@
             "to": "2015-07-01",
             "description": "Support for pilot units on their paths to an effective strategic management process \n Creation of compelling interactive data visualizations that facilitate cross-campus collaboration and decision-making \n Development of accessible, interactive graphics that enhance senior leadership's communications with external stakeholders",
             "url": "https://vca.berkeley.edu/resources/operational-excellence/oe-projects/strategic-management-and-metrics",
-            "default_item": false
+            "default_item": false,
+            "color": "#045a8d"
         },
         {
             "type": "Work",
@@ -150,7 +164,8 @@
             "to": "2013-06-30",
             "description": "User-Centered Design, Data Analysis and Prototyping to provide Berkeley students with a better online view of their finances",
             "url": "http://news.berkeley.edu/2014/01/21/calcentral-offers-all-your-campus-info-anywhere-anytime/",
-            "default_item": false
+            "default_item": false,
+            "color": "#045a8d"
         },
         {
             "type": "Work",
@@ -160,7 +175,8 @@
             "to": "2012-12-31",
             "description": "Development of assets supporting the business case to replace the campus' homegrown Student Information System: \n -  A logical architecture model of 93 student applications and their interfaces\n - A total cost of ownership analysis of student information applications ",
             "url": "https://sis.berkeley.edu/",
-            "default_item": false
+            "default_item": false,
+            "color": "#045a8d"
         },
         {
             "type": "Work",
@@ -170,7 +186,8 @@
             "to": "2012-05-31",
             "description": "Special projects work on behalf of the Berkeley Office of the Registrar:\n - conducted a review of campus degree audit system and performed vendor fit-gap analysis for campus advising toolkit solution",
             "url": "",
-            "default_item": false
+            "default_item": false,
+            "color": "#045a8d"
         },
         {
             "type": "Work",
@@ -180,7 +197,8 @@
             "to": "2011-09-30",
             "description": "Collaborated with sofware architects to define service entities and the data that is exchanged across thier interfaces \n Lead analyst on the design and implementation of the campus course approval system (using a release of Kuali Student software)",
             "url": "https://www.kuali.co/products/student/",
-            "default_item": false
+            "default_item": false,
+            "color": "#045a8d"
         },
         {
             "type": "Work",
@@ -190,7 +208,8 @@
             "to": "2008-04-01",
             "description": "Re-engineered the business application architecture to better serve internal customers \n Procurement and integration of enterprise loan management systems \n Managed a team of network administrators and software developers",
             "url": "http://www.liifund.org/",
-            "default_item": false
+            "default_item": false,
+            "color": "#08519c"
         },
         {
             "type": "Work",
@@ -200,7 +219,8 @@
             "to": "2004-06-01",
             "description": "Lead business analyst on wireless billing system, debut of number portability \n Lead designer of self-service customer web-bill \n Information modelling and design of new products and fee structures",
             "url": "http://www.credomobile.com/",
-            "default_item": false
+            "default_item": false,
+            "color": "#4575b4"
         },
         {
             "type": "Work",
@@ -210,7 +230,8 @@
             "to": "2001-02-01",
             "description": "Designed a visual Java integrated development environment (IDE) for analysts as part of a suite of rapid app development tools \n Worked on forward-thinking dashboard design concepts for automotive industry manufacturers",
             "url": "http://www.cooper.com/",
-            "default_item": false
+            "default_item": false,
+            "color": "#74add1"
         },
         {
             "type": "Work",
@@ -220,7 +241,8 @@
             "to": "1999-11-30",
             "description": "Java developer of software for tracking sales agent activity for FedEx Corp\n Lead developer of a conference/event planning system for the Hartford Financial Services Corporation \n Developed web design fundamentals course materials, maintained corporate intranet",
             "url": "http://www.nasdaq.com/markets/ipos/company/condor-technology-solutions-inc-3623-5108",
-            "default_item": false
+            "default_item": false,
+            "color": "#abd9e9"
         }
     ]
 }
