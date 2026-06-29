@@ -175,7 +175,7 @@
             "to": "2020-03-01",
             "description": "Collect and analyze data, create visualizations tailored for campus leadership to support decision-making \n Build data visualization tools used by fellow campus analysts and researchers \n Build and maintain the campus undergraduate enrollment model, set targets, generate forecasts, track student progress \n Lead supervised research of undergraduates participating in the Berkeley Data Science Discovery Program",
             "url": "http://opa.berkeley.edu/",
-            "default_item": true,
+            "default_item": false,
             "color": "#045a8d"
         },
         {
