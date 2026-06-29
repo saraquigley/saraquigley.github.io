@@ -3,7 +3,7 @@
          {
             "type": "AI Automation",
             "institution": "University of California, Berkeley",
-            "title": "Graduate Program Dashboards",
+            "title": "Doctoral Placement Outcomes",
             "from": "2022-08-02",
             "to": "2026-07-01",
             "description": "Iteratively build AI workflows for assessing whereabouts of PhD degree recipient \n Built with Google Search API, frontier LLM model APIs, Langchain, Python",
