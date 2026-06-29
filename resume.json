@@ -1,5 +1,27 @@
 {
     "study": [
+         {
+            "type": "AI Automation",
+            "institution": "University of California, Berkeley",
+            "title": "Graduate Program Dashboards",
+            "from": "2022-08-02",
+            "to": "2026-07-01",
+            "description": "Iteratively build AI workflows for assessing whereabouts of PhD degree recipient \n Built with Google Search API, frontier LLM model APIs, Langchain, Python",
+            "url": "",
+            "default_item": false,
+            "color": "#a63603"
+        },
+        {
+            "type": "Dashboard Development",
+            "institution": "University of California, Berkeley",
+            "title": "Graduate Program Dashboards",
+            "from": "2020-03-02",
+            "to": "2022-08-01",
+            "description": "Internal graduate student data dashboards for use by graduate advisors and faculty \n Built with Observable framework, d3.js",
+            "url": "",
+            "default_item": false,
+            "color": "#d94801"
+        },
         {
             "type": "Visualization Project",
             "institution": "University of California, Berkeley",
@@ -134,6 +156,17 @@
         }
     ],
     "experience": [
+        {
+            "type": "Work",
+            "institution": "University of California, Berkeley",
+            "title": "Assistant Dean for Insitutional Research and Data Analytics :: Graduate Division",
+            "from": "2020-03-02",
+            "to": "2026-07-01",
+            "description": "Collect and analyze graduate student data for campus leadership to support decision-making \n Develop data dashboards to support graduate program assessment  \n Track and forecast graduate enrollment, set graduate admissions targets \n Lead a team of institutional researchers, business systems analysts, and graduate student researchers",
+            "url": "http://grad.berkeley.edu/",
+            "default_item": true,
+            "color": "#2171b5"
+        },
         {
             "type": "Work",
             "institution": "University of California, Berkeley",
