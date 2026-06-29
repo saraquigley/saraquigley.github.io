@@ -171,7 +171,7 @@ var d3Resume = function(_config){
 		addItemDetail(gInfo, "24px", "translate("+[0,50]+")", "300", "#525252",function(d){return d.institution;});
 		addItemDetail(gInfo, "16px", "translate("+[0,75]+")", "300", "#000000", function(d){
 																var text = formatToShow(d.from) + ' - ';
-																if (formatToShow(d.to) === "08/01/2018")
+																if (formatToShow(d.to) === "07/01/2026")
 																	text += ' Present ';
 																else
 																	text += formatToShow(d.to);
